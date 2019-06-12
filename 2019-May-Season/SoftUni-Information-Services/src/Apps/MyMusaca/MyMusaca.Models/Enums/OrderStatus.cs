@@ -1,4 +1,4 @@
-﻿namespace MyMusaca.Models
+﻿namespace MyMusaca.Models.Enums
 {
     public enum OrderStatus
     {

@@ -1,5 +1,6 @@
 ﻿using MyMusaca.Services;
 using MyMusaca.Web.BindingModels;
+using MyMusaca.Web.BindingModels.Orders;
 using SIS.MvcFramework;
 using SIS.MvcFramework.Attributes;
 using SIS.MvcFramework.Attributes.Security;

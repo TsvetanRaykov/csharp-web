@@ -4,6 +4,7 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using MyMusaca.Data;
 using MyMusaca.Models;
+using MyMusaca.Models.Enums;
 
 namespace MyMusaca.Services
 {

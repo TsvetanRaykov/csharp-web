@@ -1,6 +1,6 @@
 ﻿using SIS.MvcFramework.Attributes.Validation;
 
-namespace MyMusaca.Web.BindingModels
+namespace MyMusaca.Web.BindingModels.Orders
 {
     public class OrdersCompleteBindingModel
     {
